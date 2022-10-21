@@ -1,0 +1,5 @@
+design the dashboard
+side navbar
+write a json file (input firstName, lastName, mobNumber, currentAddr, permamentAddr)
+add a button onClick button open side or Drawer
+inside drawer 5 input filed and featch json file

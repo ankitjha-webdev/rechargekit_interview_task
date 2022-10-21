@@ -1,0 +1,113 @@
+{
+    "data": [
+        {   "id": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "mobNumber": 1234567890,
+            "currentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        },
+        {   "id": 2,
+            "firstName": "Ankit",
+            "lastName": "Kumar",
+            "mobNumber": 2354683279,
+            "currentAddr": {
+                "street": "372 JHS St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        },
+        {
+            "id": 3,
+            "firstName": "Ankit",
+            "lastName": "Kumar",
+            "mobNumber": 2354683279,
+            "currentAddr": {
+                "street": "372 JHS St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        }
+        ,
+        {
+            "id": 4,
+            "firstName": "Ankit",
+            "lastName": "Kumar",
+            "mobNumber": 2354683279,
+            "currentAddr": {
+                "street": "372 JHS St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        }
+        ,
+        {
+            "id": 5,
+            "firstName": "Monu",
+            "lastName": "Kumar",
+            "mobNumber": 563925382,
+            "currentAddr": {
+                "street": "372 sdfdf St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        }
+        ,
+        {
+            "id": 6,
+            "firstName": "Ankit",
+            "lastName": "Kumar",
+            "mobNumber": 2354683279,
+            "currentAddr": {
+                "street": "372 JHS St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "permamentAddr": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            }
+        }
+    ]
+}
